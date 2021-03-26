@@ -1,0 +1,377 @@
+ContextMenu_EN = {
+
+
+
+	ContextMenu_feeling_tipsy = "feeling tipsy",
+	ContextMenu_feeling_good = "feeling good",
+	ContextMenu_that's_the_stuff = "that's the stuff",
+	ContextMenu_I_could_go_for_another = "I could go for another",
+	ContextMenu_that's_the_good_stuff = "that's the good stuff",
+	ContextMenu_this_is_great = "this is great",
+
+
+	ContextMenu_my_nose_is_runny = "my nose is runny",
+	ContextMenu_my_nose_is_stuffed = "my nose is stuffed",
+	ContextMenu_I_have_a_cold_for_sure = "I have a cold for sure",
+	ContextMenu_this_cold_is_a_problem = "this cold is a problem",
+	ContextMenu_my_throat_is_sore = "my throat is sore",
+	ContextMenu_I_need_to_do_something_about_this_cold = "I need to do something about this cold",
+	ContextMenu_do_I_have_a_fever? = "do I have a fever?",
+
+
+	ContextMenu_it_is_windy_out = "it is windy out",
+	ContextMenu_it_is_so_windy = "it is so windy",
+	ContextMenu_this_wind_is_strong = "this wind is strong",
+	ContextMenu_way_too_windy = "way too windy",
+	ContextMenu_it_is_very_windy = "it is very windy",
+	ContextMenu_this_wind_is_crazy = "this wind is crazy",
+	ContextMenu_this_wind_is_insane = "this wind is insane",
+	ContextMenu_the_winds_are_howling = "the winds are howling",
+
+
+
+	ContextMenu_this_heat_sucks = "this heat sucks",
+	ContextMenu_this_heat_is_making_me_thirsty = "this heat is making me thirsty",
+	ContextMenu_it_is_so_hot = "it is so hot",
+	ContextMenu_it_is_way_too_hot = "it is way too hot",
+	ContextMenu_this_heat_is_kiling_me = "this heat is kiling me",
+	ContextMenu_this_heat_is_unbearable = "this heat is unbearable",
+	ContextMenu_I_might_pass_out = "I might pass out",
+	ContextMenu_I_can't_see_straight = "I can't see straight",
+
+
+
+	ContextMenu_time_out = "time out",
+	ContextMenu_I_need_a_break = "I need a break",
+	ContextMenu_*gasp* = "*gasp*",
+	ContextMenu_I_need_to_rest = "I need to rest",
+	ContextMenu_I_can_barely_run = "I can barely run",
+	ContextMenu_I_an_barely_walk = "I an barely walk",
+	ContextMenu_I'm_going_to_pass_out = "I'm going to pass out",
+	ContextMenu_I_can_barely_move = "I can barely move",
+	ContextMenu_I_can_barely_move_my_arms = "I can barely move my arms",
+	ContextMenu_I_can_barely_move_my_legs = "I can barely move my legs",
+
+
+
+	ContextMenu_I'm_bleeding_a_bit = "I'm bleeding a bit",
+	ContextMenu_I'm_bleeding = "I'm bleeding",
+	ContextMenu_I_need_to_stop_the_bleeding = "I need to stop the bleeding",
+	ContextMenu_I'm_bleeding_out = "I'm bleeding out",
+	ContextMenu_I'm_bleeding_to_death = "I'm bleeding to death",
+	ContextMenu_I'll_die_at_this_rate = "I'll die at this rate",
+
+
+
+	ContextMenu_that_was_a_meal = "that was a meal",
+	ContextMenu_I'm_full = "I'm full",
+	ContextMenu_my_stomach_is_full = "my stomach is full",
+	ContextMenu_I'm_stuffed = "I'm stuffed",
+	ContextMenu_my_stomach_is_stuffed = "my stomach is stuffed",
+	ContextMenu_I_couldn't_take_another_bite = "I couldn't take another bite",
+	ContextMenu_I_can't_eat_anymore = "I can't eat anymore",
+
+
+
+	ContextMenu_I_should_treat_this_soon = "I should treat this soon",
+	ContextMenu_<SARCASM>,_an_injury = "<SARCASM>, an injury",
+	ContextMenu_that's_going_to_leave_a_mark = "that's going to leave a mark",
+	ContextMenu_I'm_going_to_need_first-aid = "I'm going to need first-aid",
+
+
+
+	ContextMenu_I_miss_my_family = "I miss my family",
+	ContextMenu_this_is_getting_hard = "this is getting hard",
+	ContextMenu_how_long_can_I_keep_going? = "how long can I keep going?",
+	ContextMenu_is_this_my_life_now? = "is this my life now?",
+	ContextMenu_what's_the_point_of_going_on = "what's the point of going on",
+	ContextMenu_what's_the_point = "what's the point",
+	ContextMenu_what_kind_of_life_is_this? = "what kind of life is this?",
+	ContextMenu_this_isn't_living = "this isn't living",
+	ContextMenu_I_should_join_the_zombies = "I should join the zombies",
+	ContextMenu_why_me? = "why me?",
+	ContextMenu_there's_no_future = "there's no future",
+	ContextMenu_this_world = "this world",
+	ContextMenu_there's_no_point = "there's no point",
+
+
+
+	ContextMenu_getting_wet_here = "getting wet here",
+	ContextMenu_I'm_soaked = "I'm soaked",
+	ContextMenu_I'm_soaking_wet = "I'm soaking wet",
+	ContextMenu_<SARCASM>,_I'm_soaking_wet = "<SARCASM>, I'm soaking wet",
+	ContextMenu_I'll_catch_a_cold_at_this_rate = "I'll catch a cold at this rate",
+	ContextMenu_I_am_drenched = "I am drenched",
+
+
+
+	ContextMenu_I_feel_queasy = "I feel queasy",
+	ContextMenu_I'm_feeling_off = "I'm feeling off",
+	ContextMenu_I_am_ill = "I am ill",
+	ContextMenu_feeling_a_bit_sick = "feeling a bit sick",
+	ContextMenu_I_feel_sick = "I feel sick",
+	ContextMenu_I_feel_nauseous = "I feel nauseous",
+	ContextMenu_do_I_have_a_fever? = "do I have a fever?",
+	ContextMenu_I_have_a_fever = "I have a fever",
+
+
+	ContextMenu_*grunt* = "*grunt*",
+	ContextMenu_this_is_heavy = "this is heavy",
+	ContextMenu_this_is_alot_to_carry = "this is alot to carry",
+	ContextMenu_this_is_a_heavy_load = "this is a heavy load",
+	ContextMenu_<SWEAR>,_this_is_heavy = "<SWEAR>, this is heavy",
+	ContextMenu_<PAIN>._my_back = "<PAIN>. my back",
+
+
+
+	ContextMenu_I'm_turning_into_one_of_them = "I'm turning into one of them",
+	ContextMenu_this_is_it = "this is it",
+	ContextMenu_this_is_over = "this is over",
+	ContextMenu_why_me? = "why me?",
+	ContextMenu_I'm_going_to_turn_into_one_of_them,_aren't_I? = "I'm going to turn into one of them, aren't I?",
+
+
+
+	ContextMenu_getting_dark = "getting dark",
+	ContextMenu_looks_like_the_sun_is_going_down = "looks like the sun is going down",
+	ContextMenu_the_sun_is_going_down = "the sun is going down",
+
+
+
+	ContextMenu_another_day = "another day",
+	ContextMenu_made_it_to_another_day = "made it to another day",
+	ContextMenu_the_sun_is_coming_up = "the sun is coming up",
+	ContextMenu_the_sun_is_rising = "the sun is rising",
+
+
+
+	ContextMenu_jam = "jam",
+	ContextMenu_gun_is_jammed = "gun is jammed",
+	ContextMenu_damn_thing_is_jammed = "damn thing is jammed",
+	ContextMenu_jammed = "jammed",
+
+
+
+	ContextMenu_running_low = "running low",
+	ContextMenu_running_low_on_ammo = "running low on ammo",
+	ContextMenu_going_to_need_to_reload = "going to need to reload",
+	ContextMenu_not_many_shots_left = "not many shots left",
+	ContextMenu_ammo_is_low = "ammo is low",
+
+
+
+	ContextMenu_I'm_out = "I'm out",
+	ContextMenu_empty = "empty",
+	ContextMenu_no_ammo = "no ammo",
+	ContextMenu_out_of_ammo = "out of ammo",
+	ContextMenu_there_is_no_ammo = "there is no ammo",
+	ContextMenu_gun_is_out_of_ammo = "gun is out of ammo",
+	ContextMenu_this_is_empty = "this is empty",
+	ContextMenu_this_thing_is_empty = "this thing is empty",
+	ContextMenu_gun_is_empty = "gun is empty",
+	ContextMenu_out_of_bullets = "out of bullets",
+	ContextMenu_no_bullets = "no bullets",
+	ContextMenu_there_is_no_bullets = "there is no bullets"",
+
+
+
+	ContextMenu_I_could_use_a_snack = "I could use a snack",
+	ContextMenu_*stomach_stirs* = "*stomach stirs*",
+	ContextMenu_I_could_use_<FOOD> = "I could use <FOOD>",
+	ContextMenu_I_have_to_snack_on_something = "I have to snack on something",
+	ContextMenu_<FOOD>_would_be_nice_right_about_now = "<FOOD> would be nice right about now",
+	ContextMenu_I_should_go_get_some_food = "I should go get some food",
+	ContextMenu_*stomach_growls* = "*stomach growls*",
+	ContextMenu_I_better_get_some_food = "I better get some food",
+	ContextMenu_I_should_get_something_to_eat = "I should get something to eat",
+	ContextMenu_my_stomach_is_rumbling = "my stomach is rumbling",
+	ContextMenu_ugh,_I_really_need_something_to_eat = "ugh, I really need something to eat",
+	ContextMenu_I_could_go_for_<FOOD> = "I could go for <FOOD>",
+	ContextMenu_I_could_go_for_<FOOD>_right_about_now = "I could go for <FOOD> right about now",
+	ContextMenu_*stomach_growls_loudly* = "*stomach growls loudly*",
+	ContextMenu_this_gnawing_hunger_is_driving_me_nuts! = "this gnawing hunger is driving me nuts!",
+	ContextMenu_there_has_got_to_be_some_food_somewhere = "there has got to be some food somewhere",
+	ContextMenu_I_need_food = "I need food",
+	ContextMenu_aaghhh._the_hunger. = "aaghhh. the hunger.",
+	ContextMenu_where_the_<SWEAR>_is_some_food!? = "where the <SWEAR> is some food!?",
+	ContextMenu_I'm_so_hungry = "I'm so hungry",
+	ContextMenu_uhnnng._the_hunger = "uhnnng. the hunger",
+	ContextMenu_I'm_starving = "I'm starving",
+
+
+
+	ContextMenu_my_mouth_is_dry = "my mouth is dry",
+	ContextMenu_*clears_throat* = "*clears throat*",
+	ContextMenu_I_could_go_for_some_water_right_now. = "I could go for some water right now.",
+	ContextMenu_a_sip_of_water_would_be_nice. = "a sip of water would be nice.",
+	ContextMenu_I_need_something_to_drink. = "I need something to drink.",
+	ContextMenu_I_should_get_something_to_drink. = "I should get something to drink.",
+	ContextMenu_my_mouth_feels_a_bit_dry. = "my mouth feels a bit dry.",
+	ContextMenu_could_use_a_good_gulp_of_water_right_now. = "could use a good gulp of water right now.",
+	ContextMenu_I_should_drink_something. = "I should drink something.",
+	ContextMenu_my_mouth_is_so_dry = "my mouth is so dry",
+	ContextMenu_I_really_should_get_something_to_drink_now. = "I really should get something to drink now.",
+	ContextMenu_I_need_some_water! = "I need some water!",
+	ContextMenu_there_has_to_be_water_somewhere = "there has to be water somewhere",
+	ContextMenu_I_need_water = "I need water",
+
+
+
+	ContextMenu_*yawn* = "*yawn*",
+	ContextMenu_I_could_use_a_nap. = "I could use a nap.",
+	ContextMenu_I_feel_sluggish. = "I feel sluggish.",
+	ContextMenu_I_should_get_some_sleep. = "I should get some sleep.",
+	ContextMenu_man,_I_could_use_a_lie_down. = "man, I could use a lie down.",
+	ContextMenu_*long_yawn* = "*long yawn*",
+	ContextMenu_I_should_go_to_sleep_soon = "I should go to sleep soon",
+	ContextMenu_I_should_go_to_bed_soon = "I should go to bed soon",
+	ContextMenu_I_should_probably_call_it_a_day_soon = "I should probably call it a day soon",
+	ContextMenu_I'm_starting_to_get_bags_under_my_eyes. = "I'm starting to get bags under my eyes.",
+	ContextMenu_damn_I'm_tired. = "damn I'm tired.",
+	ContextMenu_*extremely_long_yawn* = "*extremely long yawn*",
+	ContextMenu_I'm_so_tired = "I'm so tired",
+	ContextMenu_man,_I_could_use_some_sleep. = "man, I could use some sleep.,	ContextMenu_I_think_I'm_starting_to_lose_it._I_really_need_sleep. = "I think I'm starting to lose it. I really need sleep.",
+	ContextMenu_I_can_barely_keep_my_eyes_open = "I can barely keep my eyes open",
+	ContextMenu_I_feel_like_I'm_going_to_pass_out = "I feel like I'm going to pass out",
+	ContextMenu_how_long_has_it_been_since_I_last_slept? = "how long has it been since I last slept?",
+	ContextMenu_uhnng,_I'm_so_tired = "uhnng, I'm so tired",
+	ContextMenu_I_really_should_go_to_sleep_soon. = "I really should go to sleep soon.",
+	ContextMenu_*your_eyelids_feel_heavy* = "*your eyelids feel heavy*",
+	ContextMenu_I_can_barely_stand._I'm_so_tired. = "I can barely stand. I'm so tired.",
+
+
+
+	ContextMenu_I_should_go_do_something. = "I should go do something.",
+	ContextMenu_I_could_use_something_to_do = "I could use something to do",
+	ContextMenu_*sigh* = "*sigh*",
+	ContextMenu_there_has_got_to_be_something_to_do = "there has got to be something to do",
+	ContextMenu_well,_this_is_boring = "well, this is boring",
+	ContextMenu_man_I'm_bored = "man I'm bored",
+	ContextMenu_so_little_to_do,_so_little_to_see = "so little to do, so little to see",
+	ContextMenu_I'm_bored_as_<SWEAR>> = "I'm bored as <SWEAR>>",
+	ContextMenu_*long_sigh* = "*long sigh*",
+	ContextMenu_so_bored. = "so bored.",
+	ContextMenu_I'm_bored_as_hell. = "I'm bored as hell.",
+	ContextMenu_*deep_sigh* = "*deep sigh*",
+	ContextMenu_I_really_need_something_to_do = "I really need something to do,	ContextMenu_there_has_gotta_be_something_to_do!_something!_anything!_aghh! = "there has gotta be something to do! something! anything! aghh!",
+	ContextMenu_sticking_spoons_in_my_eyes_would_be_better_than_this = "sticking spoons in my eyes would be better than this",
+	ContextMenu_this_is_boredom_is_driving_me_insane! = "this is boredom is driving me insane!",
+
+
+
+	ContextMenu_feeling_stressed = "feeling stressed",
+	ContextMenu_I_need_to_relax_somehow = "I need to relax somehow",
+	ContextMenu_*deep_breath* = "*deep breath*",
+	ContextMenu_I_need_to_relax = "I need to relax",
+	ContextMenu_ugh = "ugh",
+	ContextMenu_I_could_use_some_relaxation = "I could use some relaxation",
+	ContextMenu_*deep_long_breath* = "*deep long breath*",
+	ContextMenu_I_could_really_use_a_bit_of_relaxation = "I could really use a bit of relaxation",
+	ContextMenu_can't_anymore = "can't anymore",
+	ContextMenu_this_fucking_stress = "this fucking stress",
+	ContextMenu_fuck_this_bullshit = "fuck this bullshit",
+
+
+
+	ContextMenu_deep_breaths,_deep_breaths = "deep breaths, deep breaths",
+	ContextMenu_I_hate_this = "I hate this",
+	ContextMenu_should_not_be_outside = "should not be outside",
+	ContextMenu_I_should_not_be_doing_this = "I should not be doing this",
+	ContextMenu_what_was_that? = "what was that?",
+	ContextMenu_why_can't_I_stay_inside? = "why can't I stay inside?",
+
+
+
+	ContextMenu_uh_oh! = "uh oh!",
+	ContextMenu_oh! = "oh!",
+	ContextMenu_ohh! = "ohh!",
+	ContextMenu_ah! = "ah!",
+	ContextMenu_ahh! = "ahh!",
+	ContextMenu_holy! = "holy!",
+	ContextMenu_<SWEAR> = "<SWEAR>",
+	ContextMenu_ah_<SWEAR>! = "ah <SWEAR>!",
+	ContextMenu_oh_<SWEAR>! = "oh <SWEAR>!",
+	ContextMenu_holy! = "holy!",
+	ContextMenu_holy_<SWEAR>! = "holy <SWEAR>!",
+	--I need to get out of here!,--"I need to get out of here!",
+	ContextMenu_why!? = "why!?",
+	ContextMenu_ahhh! = "ahhh!",
+	--I have to get the <FUCKS> out of here!,--"I have to get the <FUCKS> out of here!",
+	ContextMenu_why!? = "why!?",
+	ContextMenu_please_no! = "please no!",
+	ContextMenu_somebody_help! = "somebody help!",
+	ContextMenu_somebody_help_me! = "somebody help me!",
+	ContextMenu_oh_god!_ahhh! = "oh god! ahhh!",
+
+
+
+	ContextMenu_it_is_so_cold = "it is so cold",
+	ContextMenu_brrrrr = "brrrrr",
+	ContextMenu_*shivers* = "*shivers*",  
+
+
+	ContextMenu_ouch = "ouch",
+	ContextMenu_ow = "ow",
+	ContextMenu_argh = "argh",
+	ContextMenu_that_hurts = "that hurts",
+	ContextMenu_ouch = "ouch",
+	ContextMenu_ow = "ow",
+	ContextMenu_aagghh = "aagghh",
+	ContextMenu_that_hurts = "that hurts",
+	ContextMenu_aaaaghhh = "aaaaghhh",
+	ContextMenu_arrgh = "arrgh",
+	ContextMenu_owww = "owww",
+	ContextMenu_that_hurts_like_hell = "that hurts like hell",
+	ContextMenu_arrrgh = "arrrgh",
+	ContextMenu_the_pain = "the pain",
+	ContextMenu_make_it_stop = "make it stop",
+	ContextMenu_aagghhh = "aagghhh",
+	ContextMenu_aaaggghhh = "aaaggghhh",
+	ContextMenu_oh_god = "oh god",
+	ContextMenu_aaghh = "aaghh",
+
+
+
+
+
+
+	ContextMenu_crap = "crap",
+	ContextMenu_damn = "damn",
+	ContextMenu_god_damn = "god damn",
+	ContextMenu_shit = "shit",
+	ContextMenu_fuck = "fuck",
+/*
+-- useful list of plosives for stammering
+ConditionalSpeech.Phrases.Plosives = {f, F, p, P, t, T, k, K, b, B, d, D, g, G, s, S, m, M}
+*/
+
+
+	ContextMenu_a_bite_to_eat = "a bite to eat",
+	ContextMenu_a_whole_pizza = "a whole pizza",
+	ContextMenu_some_pizza = "some pizza",
+	ContextMenu_a_slice_of_pizza = "a slice of pizza",
+	ContextMenu_a_slice_of_cake = "a slice of cake",
+	ContextMenu_something_tasty = "something tasty",
+	ContextMenu_some_cake = "some cake",
+	ContextMenu_a_bucket_of_chicken = "a bucket of chicken",
+	ContextMenu_some_chicken = "some chicken",
+	ContextMenu_a_Spiffo_burger = "a Spiffo burger",
+	ContextMenu_a_Spiffo_kid's_meal = "a Spiffo kid's meal",
+	ContextMenu_a_bucket_of_Jay's_Chicken = "a bucket of Jay's Chicken",
+	ContextMenu_an_order_of_Jay's_biscuits_with_gravy = "an order of Jay's biscuits with gravy",
+	ContextMenu_eating_anything = "eating anything",
+	ContextMenu_anything_to_eat = "anything to eat",
+	ContextMenu_a_snack = "a snack",
+
+
+
+	ContextMenu_just_great = "just great",
+	ContextMenu_awesome = "awesome",
+	ContextMenu_fantastic = "fantastic",
+	ContextMenu_just_what_I_needed = "just what I needed",
+	
+	}
+	
+	
+	
+	
